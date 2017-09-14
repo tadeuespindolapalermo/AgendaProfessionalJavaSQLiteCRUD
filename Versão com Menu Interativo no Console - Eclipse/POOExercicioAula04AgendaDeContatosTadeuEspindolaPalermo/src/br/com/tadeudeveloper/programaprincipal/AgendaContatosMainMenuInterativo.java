@@ -13,8 +13,8 @@ public class AgendaContatosMainMenuInterativo {
 		System.out.println("...............................................................");
 		System.out.println("......... Exercício da Aula 04 - Banco de Dados SQLite ........");
 		System.out.println("...............................................................");		
-	    System.out.println("                   Professional Agenda v1.0                    ");
-	    System.out.println("...............................................................");		 
+	        System.out.println("                   Professional Agenda v1.0                    ");
+	        System.out.println("...............................................................");		 
 		System.out.println("           Disciplina: Programação Orientada à Objetos"         );
 		System.out.println("            Instituição: Faculdade JK - Santa Maria"            );
 		System.out.println("             Período: 4. Semestre - Turma: SIST4A"              );
