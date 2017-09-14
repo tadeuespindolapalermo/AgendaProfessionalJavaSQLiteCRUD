@@ -97,7 +97,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         btnAdicionar.setEnabled(false);
     }
     
-    // método para alterar dados do cliente
+    // método para alterar dados do contato
     private void alterar() {
         
         String sql = "update contato set nome=?,telefone=?,email=? where id=?";
