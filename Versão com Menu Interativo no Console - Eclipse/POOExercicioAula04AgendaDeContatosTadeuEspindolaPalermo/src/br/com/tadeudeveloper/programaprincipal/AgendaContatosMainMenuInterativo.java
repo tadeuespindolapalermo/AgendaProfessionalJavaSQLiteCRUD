@@ -26,12 +26,12 @@ public class AgendaContatosMainMenuInterativo {
 		System.out.println("   Bem-vindo à Agenda de Contatos Professional Agenda v1.0!"    );
 		System.out.println("***************************************************************\n");
 		System.out.println("*********************** MENU DE OPÇÕES ************************\n");
-		System.out.println("               1 - Inserir um novo contato.");
-		System.out.println("               2 - Listar todos os contatos.");
-		System.out.println("               3 - Listar todos contatos por letra inicial.");
-		System.out.println("               4 - Listar contatos por nome informado."); 
-		System.out.println("               5 - Remover contato buscado.");
-		System.out.println("               6 - SAIR.\n");
+		System.out.println("               1 - Inserir um novo contato.                    ");
+		System.out.println("               2 - Listar todos os contatos.                   ");
+		System.out.println("               3 - Listar todos contatos por letra inicial.    ");
+		System.out.println("               4 - Listar contatos por nome informado.         "); 
+		System.out.println("               5 - Remover contato buscado.                    ");
+		System.out.println("               6 - SAIR.\n                                     ");
 		System.out.println("***************************************************************\n");
 		
 		menu();		
