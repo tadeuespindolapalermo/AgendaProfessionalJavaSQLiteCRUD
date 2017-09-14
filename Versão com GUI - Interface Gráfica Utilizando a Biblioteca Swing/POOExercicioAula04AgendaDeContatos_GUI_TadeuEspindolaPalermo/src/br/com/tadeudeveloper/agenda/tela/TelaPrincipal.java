@@ -68,7 +68,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
         }
     }
     
-    // método para pesquisar clientes pelo nome com filtro
+    // método para pesquisar contatos pelo nome com filtro
     private void pesquisar() {
 
         String sql = "select * from contato where nome like ?";
